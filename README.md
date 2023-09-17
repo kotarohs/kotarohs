@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohitkotamsetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkotamsetti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-kotamsetti-b9113b288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kotamsetti-b9113b288" height="30" width="40" /></a>
 <a href="https://kaggle.com/rohitkotamsetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohitkotamsetti" height="30" width="40" /></a>
-<a href="https://instagram.com/rohitkotamsetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohitkotamsetti" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit.kotamsetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit.kotamsetti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohit_12205208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohit_12205208" height="30" width="40" /></a>
 </p>
 
